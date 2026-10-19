@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=C073DF&center=true&width=435&lines=%E2%9C%A8+Hi!+I+am+Samuel+%E2%9C%A8;AI%2C+SWE%2C+Infra;Probably+sleeping+right+now" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">AI • Software Engineering • Homelab • Self-Hosting</h3>
+<h3 align="center">AI • Software Engineering • Homelab </h3>
 
 <p align="center">
   Information Systems student building AI tools, backend systems, automations, and self-hosted infrastructure.
